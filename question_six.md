@@ -29,7 +29,7 @@ A well-structured framework includes the following components:
     6.config/
       a. config.yaml
     7.requirements.txt
-    
+
 2.Test Data Management
 
 Test Data Management involves handling data used in tests, such as login credentials, form data, etc. which can manage test data in various formats:
@@ -47,10 +47,10 @@ POM is a design pattern that makes it easy creating separate classes for each pa
 Test cases should be organized in a way that is easy to execute and manage. frameworks like pytest handle test execution and reporting.
 
 
-1. Reporting and Logging
+5r. Reporting and Logging
 
 Reporting involves creating a summary of test results helps to debug and trace test execution.
 
-6. Utilities and Configuration
+6.Utilities and Configuration
 
 Utilities include reusable functions or classes, such as those for creating the WebDriver instance, handling configurations, or managing screenshots.
